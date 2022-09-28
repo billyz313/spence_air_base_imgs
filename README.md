@@ -1,1 +1,1 @@
-# spence_air_base_imgs
+# This repo holds and serves the images for the Spence Air Base website which operates on no budget.  Any contributions will go toward contimuing to keep the website active and live. Please visit the site at [https://spenceairbase.com/](https://spenceairbase.com/)
